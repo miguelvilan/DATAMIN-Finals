@@ -11,7 +11,7 @@
 - Toracio, Chyna Denise Topacio
 - Vilan, Miguel Anthony C.
 
-**Submitted To:**<br\>
+**Submitted To:** 
 Mr. Catayoc, Jacob
 
 ------
