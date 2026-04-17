@@ -4,7 +4,7 @@
 
 
 # Global Budget Transparency
-*## A Data Mining Approach to Identifying Socio-Economic Correlates of Fiscal Accountability*
+*A Data Mining Approach to Identifying Socio-Economic Correlates of Fiscal Accountability*
 
 **Submitted By:**
 - Andres, Don Elron
