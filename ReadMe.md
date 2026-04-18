@@ -60,15 +60,29 @@ The final output will be a report showing  rankings and characteristics that def
 ## AI Disclosure Statement
 **Tool Used**
 - Gemini 3 Flash (Google)
-*Date of Access: March 23, 2026*
+- DeepSeek (DeepSeek)
+
+*Date of Access: March 23, 2026*<br/>
+*April 18, 2026 (DeepSeek)*
 
 ### Extent of Use
 I utilized generative AI to assist in the pre-development and structural phases of this proposal. Specifically, the tool was used to:
+
+#### Gemini
 - Look for possible datasets online that can be used.
 - Refine the project title and research objectives based on the World Bank Open Budget Survey dataset.
 - Generate a structured outline for the proposal to ensure it met all academic requirements.
 - Draft initial technical descriptions for the data mining methodology (e.g., K-Means clustering and Star Schema).
 - Format academic citations in accordance with APA 7th Edition standards.
+
+#### DeepSeek:
+- Assisted during the development and analysis phases of the project
+- Helped troubleshoot CSV data loading issues in Jupyter Notebook
+- Provided guidance on data normalization and cleaning strategies
+- Explained column meanings using the DataDictionary
+- Suggested analytical approaches for trend analysis, clustering, and correlation
+- Assisted in interpreting output and debugging code
+- Helped refine project documentation
 
 ### Author’s Responsibility
 I have critically reviewed, edited, and verified all AI-generated content. All final decisions regarding the project’s scope, technical plan, and data selection were made by me. I remain fully accountable for the accuracy and integrity of this work.
@@ -76,8 +90,12 @@ I have critically reviewed, edited, and verified all AI-generated content. All f
 ------
 
 ## Reference
+**DeepSeek. (2026, April 18).** *Assistance with data mining project analysis, troubleshooting, and methodology [Generative AI chat].* DeepSeek. https://chat.deepseek.com
+
 **Google. (2026, March 23).** *Assistance with data mining project proposal and dataset selection [Generative AI chat].* Gemini 3 Flash. https://gemini.google.com
 
 **International Budget Partnership. (2024).** *Open Budget Survey 2023: Global report and rankings [Data file].* World Bank Data360. https://data360.worldbank.org/en/dataset/IBP_OBS
+
+**International Budget Partnership. (2025).** *Open Budget Survey 2025: Public data statfile (Launch 2) [Data file].* https://internationalbudget.org/open-budget-survey/download
 
 **World Bank. (n.d.).** *Open Budget Index Rank (IBP_OBS_RANK) [Data table]. Data360.* Retrieved March 23, 2026, from https://data360.worldbank.org/en/indicator/IBP_OBS_RANK
