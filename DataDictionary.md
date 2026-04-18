@@ -45,4 +45,4 @@
 
 
 ## *Disclaimer*
-*all information was taken from the IBP_OBS_DATA+Launch2.xlsx and were rewritten as needed for convenience. OBS has rights to all the information and data used for this academic project.*
+*all information was taken from the IBP_OBS_DATA+Launch2.xlsx and were rewritten as needed for convenience.  All rights to all the information and data used for this academic project are owned by the World Bank. This project is strictly for academic purposes and is specifically used to illustrate an understanding in the course this project is submitted for*
