@@ -35,6 +35,8 @@ The Open Budget Survey (OBS) is the world’s only independent, comparative, and
 ### Dataset Link
 [**World Bank Open Budget Survey Rankings**](https://data360.worldbank.org/en/indicator/IBP_OBS_RANK)
 
+[**Full OBS 2025 Dataset**](https://internationalbudget.org/open-budget-survey/download)
+
 ## Data Mining Plan
 To achieve the project goals, I plan to follow these data mining stages:
 
